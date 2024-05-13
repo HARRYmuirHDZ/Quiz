@@ -1,2 +1,1 @@
-# Quiz
-quiz 1  html css
+# Quiz-1-HTML-CSS
